@@ -1,0 +1,14 @@
+{
+    "name": "viet-/fight-club",
+    "description": "Fight en PHP Objet",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.2"
+    }
+}
